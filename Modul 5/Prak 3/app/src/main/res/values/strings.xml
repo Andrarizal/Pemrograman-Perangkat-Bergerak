@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="btn_prodi">Bawa Data Prodi ke Activity</string>
+    <string name="prodi_saya">Prodi saya...</string>
+    <string name="btn_call_browser">Buka Bowser</string>
+    <string name="btn_call_camera">Buka Kamera</string>
+    <string name="input_phone_number">Masukan Nomor Telpon</string>
+    <string name="btn_call_phone">Buka Kontak</string>
+</resources>

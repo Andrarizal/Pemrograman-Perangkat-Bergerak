@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586794420582",
+    "project_id": "modul-10-a87a2",
+    "storage_bucket": "modul-10-a87a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586794420582:android:70790b0f0b8a6492d8a0a7",
+        "android_client_info": {
+          "package_name": "com.andra_19104062.modul10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586794420582-cua93cd2jb2htgj4j2fdlkg7jn0rg4oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxkr7I1GLUZV4rbCMQ5UKvGkyqREbGys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586794420582-cua93cd2jb2htgj4j2fdlkg7jn0rg4oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
